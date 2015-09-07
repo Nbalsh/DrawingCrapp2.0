@@ -37,11 +37,11 @@
             android:background="?android:attr/selectableItemBackground"/>
 
         <ImageButton
-            android:id="@+id/save_btn"
+            android:id="@+id/guess_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:contentDescription="@string/save"
-            android:src="@drawable/save_pic"
+            android:contentDescription="@string/done"
+            android:src="@drawable/done_pic"
             android:background="?android:attr/selectableItemBackground"/>
 
     </LinearLayout>
